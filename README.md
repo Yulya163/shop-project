@@ -1,5 +1,5 @@
 # React Shop Portfolio Project
-# An application for purchasing additional features for a game character
+An application for purchasing additional features for a game character
 
 [Demo](https://Yulya163.github.io/shop-project)
 
